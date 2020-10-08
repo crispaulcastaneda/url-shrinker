@@ -1,2 +1,2 @@
 # url-shrinker
-Building URL Shrinker using React + Express
+Building URL Shrinker using  Express and Node
