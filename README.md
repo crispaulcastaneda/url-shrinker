@@ -8,9 +8,16 @@ Using `Express` and `Node.js`
 * Run VSCode > Terminal
 * npm run `start`
 
-`start`: my script variable
+`
+node_modules dependencies:
+express
+mongoose
+nodemon
+shortid
+`
+
 
 ## Acknowledgements
-[Hero PAtterns](https://www.heropatterns.com/)
+[Hero Patterns](https://www.heropatterns.com/)
 
 [Bootstrap](https://getbootstrap.com/)
