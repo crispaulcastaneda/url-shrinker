@@ -7,14 +7,19 @@ Using `Express` and `Node.js`
 * Clone this repository
 * Run VSCode > Terminal
 * npm run `start`
+* open browser type: `http://localhost:5000/`
 
-`
 node_modules dependencies:
+`
 express
 mongoose
 nodemon
 shortid
 `
+
+## Installed from Local
+* Node.js [Node](https://nodejs.org/en/)
+* MongoDB [MongoDB](https://www.mongodb.com/try/download/community) **Needed**
 
 
 ## Acknowledgements
