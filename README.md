@@ -1,12 +1,12 @@
 # URL Shrinker
 
-Using Express and Node.js
+Using `Express` and `Node.js`
 
 ## How to:
 
 * Clone this repository
 * Run VSCode > Terminal
-* npm run start
+* npm run `start`
 
 `start`: my script variable
 
