@@ -18,8 +18,8 @@ shortid
 `
 
 ## Installed from Local
-* Node.js [Node](https://nodejs.org/en/)
-* MongoDB [MongoDB](https://www.mongodb.com/try/download/community) **Needed**
+*  [Node](https://nodejs.org/en/)
+*  [MongoDB](https://www.mongodb.com/try/download/community) **Needed**
 
 
 ## Acknowledgements
