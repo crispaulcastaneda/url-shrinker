@@ -17,7 +17,7 @@ nodemon
 shortid
 `
 
-## Installed from Local
+## Tech need to install in to your device
 *  [Node](https://nodejs.org/en/)
 *  [MongoDB](https://www.mongodb.com/try/download/community) **Needed**
 
